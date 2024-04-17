@@ -1,0 +1,11 @@
+tpa:
+  timeout: 60
+  wait: 5
+  cooldowns:
+    tpa: 60
+    tpaHere: 60
+bStats:
+  enabled: true
+check-for-updates: true
+messages:
+  prefix: §8[§6JustTPA§8] §7
